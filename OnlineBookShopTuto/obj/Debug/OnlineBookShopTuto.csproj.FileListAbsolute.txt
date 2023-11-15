@@ -1,0 +1,42 @@
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\csc.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\System.Collections.Immutable.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\vbc.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\VBCSCompiler.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\VBCSCompiler.exe.config
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\OnlineBookShopTuto.dll.config
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\OnlineBookShopTuto.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\OnlineBookShopTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\obj\Debug\OnlineBookShopTuto.csprojResolveAssemblyReference.cache
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\obj\Debug\OnlineBookShopTuto.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\OnlineBookShopTuto\OnlineBookShopTuto\obj\Debug\OnlineBookShopTuto.pdb
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\csc.exe
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\System.Collections.Immutable.dll
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\vbc.exe
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\VBCSCompiler.exe
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\roslyn\VBCSCompiler.exe.config
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\OnlineBookShopTuto.dll.config
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\OnlineBookShopTuto.dll
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\OnlineBookShopTuto.pdb
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\obj\Debug\OnlineBookShopTuto.csproj.AssemblyReference.cache
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\obj\Debug\OnlineBookShopTuto.csproj.CoreCompileInputs.cache
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\obj\Debug\OnlineBookShopTuto.csproj.CopyComplete
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\obj\Debug\OnlineBookShopTuto.dll
+D:\Aneesha\.net_Project\OnlineBookShopTuto\OnlineBookShopTuto\obj\Debug\OnlineBookShopTuto.pdb
